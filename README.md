@@ -1,9 +1,14 @@
 
-#  Hi👋, I'm Rohit Chauhan 
+<h1>Hi 👋, I'm Rohit Chauhan</h1>
 
- 
-   I’m a Full Stack Developer who loves turning ideas into web apps and exploring new technologies every day. 🚀
+🚀 **Full Stack Developer** passionate about turning ideas into real-world web applications and exploring new technologies every day.
 
+## 💫 About Me :
+
+- 🌱 Always learning and improving  
+- 💻 Passionate about clean code & scalable systems  
+- ⚡ Enjoy building, experimenting, and shipping products  
+- 💡 Open to collaboration and new opportunities 
 
 ## 🌐 Socials:
 
