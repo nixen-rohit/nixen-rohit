@@ -20,11 +20,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nixen-rohit&theme=dark&hide_border=false&layout=compact&v=1)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=nixen-rohit)
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
