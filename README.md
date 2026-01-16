@@ -16,7 +16,7 @@ Hey there 👋 I’m a Full Stack Developer who loves turning ideas into web app
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nixen-rohit&theme=dark&hide_border=false&layout=compact&v=1)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=nixen-rohit&theme=onedark&no-frame=true&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=nixen-rohit)
 
 
 
