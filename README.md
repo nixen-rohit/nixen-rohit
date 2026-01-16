@@ -1,7 +1,7 @@
 
 <h1>Hi 👋, I'm Rohit Chauhan</h1>
 
-<h5>🚀 Full Stack Developer passionate about turning ideas into real-world web applications and exploring new technologies every day.</h5>
+<h3>🚀 Full Stack Developer passionate about turning ideas into real-world web applications and exploring new technologies every day.</h3>
 
 ## 💫 About Me :
 
