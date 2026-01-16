@@ -1,16 +1,16 @@
 
 <h1>Hi 👋, I'm Rohit Chauhan</h1>
 
-<h3>🚀 I'm a Full Stack Developer passionate about turning ideas into real-world web applications and exploring new technologies every day.</h3>
+### 🚀 I'm a Full Stack Developer passionate about turning ideas into real-world web applications and exploring new technologies every day.
 
-## 💫 About Me :
+# 💫 About Me :
 
 - 🌱 Always learning and improving  
 - 💻 Passionate about clean code & scalable systems  
 - ⚡ Enjoy building, experimenting, and shipping products  
 - 💡 Open to collaboration and new opportunities 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://nixen-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-chauhan-web) 
