@@ -3,7 +3,11 @@ Hey there 👋 I’m a Full Stack Developer who loves turning ideas into web app
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://nixen-portfolio.netlify.app/) 
+<a href="https://nixen-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" />
+</a>
+
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-chauhan-web) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KHZPBVt3TM)
 
