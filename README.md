@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 I’m a Full Stack Developer who loves turning ideas into web apps using the MERN stack and exploring new technologies every day. 🚀
+Hey there 👋 I’m a Full Stack Developer who loves turning ideas into web apps and exploring new technologies every day. 🚀
 
 
 ## 🌐 Socials:
