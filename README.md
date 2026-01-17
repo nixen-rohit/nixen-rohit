@@ -32,7 +32,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-### Thanks for Visiting my GitHub Profile!
+## Thanks for Visiting my GitHub Profile!
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
