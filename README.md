@@ -22,10 +22,9 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nixen-rohit&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=nixen-rohit&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nixen-rohit&theme=dark&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=nixen-rohit&theme=dark&hide_border=false&include_all_commits=true&v=1) 
+![](https://streak-stats.demolab.com?user=nixen-rohit&theme=dark&hide_border=false&v=1) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nixen-rohit&theme=dark&hide_border=false&layout=compact&v=1)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
