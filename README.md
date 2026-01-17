@@ -1,7 +1,8 @@
 
 <h1>Hi 👋, I'm Rohit Chauhan</h1>
 
-#### 🚀 I'm a Full Stack Developer passionate about turning ideas into real-world web applications.
+#### 🚀 I'm a Full Stack Developer passionate about turning ideas into real-world web applications. 
+
 
 # 💫 About Me :
 
@@ -33,7 +34,6 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
----
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
