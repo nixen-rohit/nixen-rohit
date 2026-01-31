@@ -3,7 +3,7 @@
 <h3 align="center">🚀 I'm a Full Stack Developer passionate about turning ideas into real-world web applications</h3>
 
  
-
+---
 
 # 💫 About Me :
 
