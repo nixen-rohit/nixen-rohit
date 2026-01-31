@@ -14,8 +14,7 @@
 # 🌐 Socials :
 
 <p>
-  <a href="https://www.linkedin.com/in/rohit-webs" target="_blank">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-webs" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="nixenboi@gmail.com">
