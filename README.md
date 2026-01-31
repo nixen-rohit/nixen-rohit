@@ -1,7 +1,8 @@
 
-<h1>Hi 👋, I'm Rohit Chauhan</h1>
+<h1 align="center">Hi 👋, I'm a Rohit Chauhan</h1>
+<h3 align="center">🚀 I'm a Full Stack Developer passionate about turning ideas into real-world web applications</h3>
 
-#### 🚀 I'm a Full Stack Developer passionate about turning ideas into real-world web applications. 
+ 
 
 
 # 💫 About Me :
