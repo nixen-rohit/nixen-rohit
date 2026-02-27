@@ -46,6 +46,6 @@
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
  
-[![](https://visitcount.itsvg.in/api?id=nixen-rohit&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nixen-rohit&icon=0&color=0)](https://visitcount.itsvg.in)](https://github-profile-trophy.vercel.app/?username=nixen-rohit&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
