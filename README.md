@@ -29,12 +29,20 @@
 
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nixen-rohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nixen-rohit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nixen-rohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nixen-rohit&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=nixen-rohit&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)) 
+### 📋 Profile Summary
+
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nixen-rohit&theme=vision_friendly_dark)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nixen-rohit&theme=vision_friendly_dark)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nixen-rohit&theme=vision_friendly_dark)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nixen-rohit&theme=vision_friendly_dark)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nixen-rohit&theme=vision_friendly_dark&utcOffset=8)
+
 
 ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
