@@ -1,9 +1,7 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Chauhan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-  
-  <img src="https://komarev.com/ghpvc/?username=nixen-rohit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  
+ 
 </div>
 
 ---
