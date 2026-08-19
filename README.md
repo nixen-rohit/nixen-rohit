@@ -22,8 +22,11 @@
 
 - 💻 Passionate about clean code & scalable systems  
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- ⚡ Enjoy building, experimenting, and shipping products
+  
+- 💡 Open to collaboration and new opportunities
 
+- 🎊 Happy to connect with You
 
 ###
  
