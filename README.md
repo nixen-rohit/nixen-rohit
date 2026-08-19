@@ -19,12 +19,13 @@
 - ⚡ Enjoy building, experimenting, and shipping products  
 - 💡 Open to collaboration and new opportunities 
 
+
+<img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2prdndkcG1vNWhvaHNhbWZzdXJrdDd0ZjZmY21yYXF5bzhqbGp1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" height="290px" align="right" />
+
+
 ###
 
-<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBnb2tjbTlkYnRqZmxrN3JjY2YyeW9xdzY2b3Y5cXQ5MGltdmxwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-###
+ 
 
 # 🌐 Socials :
 
