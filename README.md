@@ -18,15 +18,15 @@
 <img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2prdndkcG1vNWhvaHNhbWZzdXJrdDd0ZjZmY21yYXF5bzhqbGp1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" height="290px" align="right" />
 
  
-- 🌱 Always learning and improving  
+- 🌱 Always learning and improving.
 
-- 💻 Passionate about clean code & scalable systems  
+- 💻 Passionate about clean code & scalable systems.
 
-- ⚡ Enjoy building, experimenting, and shipping products
+- ⚡ Enjoy building, experimenting, and shipping products.
   
-- 💡 Open to collaboration and new opportunities
+- 💡 Open to collaboration and new opportunities.
 
-- 🎊 Happy to connect with You
+- 🎊 Happy to connect with You.
 
 ###
  
